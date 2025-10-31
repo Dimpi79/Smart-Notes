@@ -5,7 +5,7 @@ Notes App is a simple app developed to take notes Quickly
 
 ## ⬇Download 
 Download and try the app. 
-Download from Releases page [**here**](https://github.com/saif191020/Notes-App-Kotlin/releases/tag/v1.0) or from Google Drive Link [**here**](https://drive.google.com/file/d/1omcRq7qLMzuc71qEOID-bEoAy5peWw_K/view?usp=sharing).
+Download from Releases page [**here**](https://github.com/Dimpi79/Smart-Notes/releases/tag/v1.0) or from Google Drive Link [**here**](https://drive.google.com/file/d/1omcRq7qLMzuc71qEOID-bEoAy5peWw_K/view?usp=sharing).
 
 ## 🖼 Screenshots
 
@@ -49,4 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ***
 > Feel free to star ⭐ this repository if you like what you see 😉.
+
 
